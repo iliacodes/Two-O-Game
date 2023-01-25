@@ -15,8 +15,8 @@ class Player
     @lives -= 1
   end
 
-  def add_score(total)
-    @score += amount
+  def add_score(total_score)
+    @score += total_score
   end
 
   def game_over?
