@@ -8,8 +8,6 @@
 # Math addition problems - Logic for math question generation
   # equationGenerator() 
 
-# Numbers (1-20) - The list of numbers that can be used to create math problems
-
 # Lives - Logic for tracking lives of each player
   # methods: loselife()
 
