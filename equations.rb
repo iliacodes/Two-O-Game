@@ -9,5 +9,6 @@ class MathProblem
     @number2=rand(1..20)
 
     puts "What is the sum of #{@number1} and #{@number2}?"
+    return [@number1, @number2]
   end
 end
